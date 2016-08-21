@@ -4,11 +4,11 @@ Music name=music volume=-3
 music jingle=jingle
 ///// conducting moves
 action name=down time=2728 key=down alias=d1
-action name=left time=2920 key= left alias=l1
+action name=left time=2920 key=left alias=l1
 action name=right time=3720 key=right alias=r1
 action name=up time=3810 key=up alias=u1
-d1 5710
-l1 6025
-r1 6427
-u1 6667
+! d1 5710
+! l1 6025
+! r1 6427
+! u1 6667
 
